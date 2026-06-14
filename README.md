@@ -1,10 +1,10 @@
-🛒 Python + SQL E-commerce Data Analysis Project
+## 🛒 Python + SQL E-commerce Data Analysis Project
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project focuses on analyzing an E-commerce dataset using Python and MySQL to extract meaningful business insights. The project demonstrates how SQL queries and Python libraries can be combined for efficient data analysis and visualization.
 
-🚀 Technologies Used
+### 🚀 Technologies Used
 
 🐍 Python
 
@@ -16,7 +16,7 @@ This project focuses on analyzing an E-commerce dataset using Python and MySQL t
 
 🎨 Seaborn
 
-📂 Dataset Description
+### 📂 Dataset Description
 
 The dataset contains multiple tables related to an e-commerce platform, including:
 
@@ -26,7 +26,7 @@ Payments
 Products
 Order Items
 
-🔍 Key Analysis Performed
+### 🔍 Key Analysis Performed
 
 1. Customer Analysis
 Extracted unique cities where customers are located
@@ -44,33 +44,33 @@ Revenue insights using SQL joins
 Percentage of orders paid using installments
 Payment behavior trends
 
-🛠️ Project Workflow
+### 🛠️ Project Workflow
 
 Connected Python to MySQL database using mysql.connector
 Executed SQL queries to retrieve data
 Converted query results into Pandas DataFrames
 Performed data analysis and visualization
 
-📊 Example Queries
+### 📊 Example Queries
 
 Fetch unique customer cities
 Count yearly orders
 Calculate category-wise sales
 Analyze payment methods
 
-📈 Visualizations
+### 📈 Visualizations
 
 Bar charts for sales distribution
 Insights using Seaborn visualizations
 
-🎯 Key Learnings
+### 🎯 Key Learnings
 
 Writing complex SQL queries with joins and aggregations
 Integrating SQL with Python
 Data cleaning and transformation using Pandas
 Data visualization techniques
 
-📌 How to Run the Project
+### 📌 How to Run the Project
 
 Install required libraries:
 
@@ -89,16 +89,16 @@ database="db_ecommercepython"
 
 Run the Jupyter Notebook
 
-📷 Project Preview
+### 📷 Project Preview
 
 <img width="1920" height="9067" alt="Python_SQL_Ecomm" src="https://github.com/user-attachments/assets/55946672-64fe-47ce-a7d0-201dc66cca52" />
 
 
-🤝 Contributing
+### 🤝 Contributing
 
 Feel free to fork this repository and improve the analysis or add more visualizations.
 
-📬 Contact
+### 📬 Contact
 
 For any queries or suggestions, feel free to connect!
 
